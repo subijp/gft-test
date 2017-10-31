@@ -1,3 +1,7 @@
 file6
 kktua
+<<<<<<< HEAD
 conflict 1
+=======
+conflict nb1
+>>>>>>> refs/heads/nb1
