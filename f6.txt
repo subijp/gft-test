@@ -6,5 +6,3 @@ conflict 1
 conflict nb1
 >>>>>>> refs/heads/nb1
 canvi1
-
-canvi2
